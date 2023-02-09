@@ -1,0 +1,19 @@
+Project 1 Analysis & Conclusions
+Olivia Bedford and Christopher Sharber
+February 8, 2023
+
+In the final analysis of our project, we examined the locations of fallen and found meteorites, 
+the mass of meteorites, and the year in which they were found.
+
+First, we found that the majority of found meteorites fell in the northwestern hemisphere of the world, with a few hot 
+spots along coastlines in Antarctica, Australia, Chile, and Oman. The barometric conditions in coastal parts of the
+world are likely more conducive to meteorites making contact with earth's surface without exploding.
+
+Second, we found that the recorded numbers of fallen and found meteorites increased significantly after the 1960's,
+likely due to the popularity of NASA in the years following the moon landing, as well as progress made in 
+scientific tools (satellites, telescopes, etc.) in the following decades making it possible to capture more data
+than ever before.
+
+Lastly, we found that the geographic location of fallen and found meteorites has no correlation with the mass of
+the object, meaning that heavier and lighter meteorites are not gravitating towards any specific part of the
+planet.
