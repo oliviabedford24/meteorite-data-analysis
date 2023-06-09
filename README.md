@@ -1,4 +1,4 @@
-# project_1
+# meteorite-data-analysis
 
 This is Project #1 for Rice University's Data Analytics and Visualization Bootcamp. Olivia Bedford and Christopher Sharber collaborated to complete and present this project. In this project, we examined a dataframe containing information regarding meteorites that have fallen to earth over the past 2000 years, approximately. 
 
