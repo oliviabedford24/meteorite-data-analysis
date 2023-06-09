@@ -6,4 +6,6 @@ Our "Resources" folder contains the original dataframe as well as the cleaned ve
 
 This code was written in VS Code using Jupyter notebooks files. To run the code properly, please run it in VS Code or in a Jupyter Notebooks browser for best results. 
 
-The work contained herein is ours alone. We received advice and assistance from our course instructor and TA, but the code, analysis, and presentation were our original work.
+The work contained herein is ours alone. 
+
+Thank you!
